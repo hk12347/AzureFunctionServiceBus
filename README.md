@@ -29,11 +29,7 @@
 
     You can also use `http GET` and `url`-parameters:
 
-    -
-
     `/api/SendMessage?name=<name>&description=<description>&price=<price>`
-
-    -
 
 5.  Read messages (product) is a **Trigger**:
 
@@ -52,8 +48,6 @@ https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs?tab
 ---
 
 #### Additional Notes
-
--
 
 ---
 [^]: (C) HKuokkanen 26.4.2023. 
